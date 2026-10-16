@@ -1,4 +1,5 @@
-<img align="right" src="./LeetCode.png" width="350" height="500" alt="My image">
+<img align="right" src="./LeetCode.png" width="400" height="600" alt="My image">
+
 **Rosemariya Roy**
 
 Student at Amity University Mumbai(2024-28).
