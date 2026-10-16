@@ -1,3 +1,4 @@
+<img align="right" src="./LeetCode.png" width="350" height="500" alt="My image">
 **Rosemariya Roy**
 
 Student at Amity University Mumbai(2024-28).
@@ -18,4 +19,4 @@ Scikit-Learn, Python.
 **CS Fundamentals**: 
 DBMS, OS, CN, DSA, OOPS.
 
-<img align="right" src="./LeetCode.png" width="500" height="500" alt="My image">
+
