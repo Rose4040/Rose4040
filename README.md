@@ -18,4 +18,4 @@ Scikit-Learn, Python.
 **CS Fundamentals**: 
 DBMS, OS, CN, DSA, OOPS.
 
-<img src="./LeetCode.png" width="200" alt="My image">
+<img align="right" src="./LeetCode.png" width="500" height="500" alt="My image">
